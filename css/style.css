@@ -2231,7 +2231,7 @@ section.reviews .holder .reviews_sliders_box .reviews_slider_holder .reviews_sli
   padding: 0 20px;
 }
 section.reviews .holder .reviews_sliders_box .reviews_slider_holder .reviews_slider_nav_box > a {
-  display: none;
+  display: none!important;
   margin-top: -20px;
 }
 section.reviews .holder .reviews_sliders_box .reviews_slider_holder .reviews_slider_nav {
@@ -4715,7 +4715,7 @@ footer .holder a.btn:hover {
     margin: 0 15px;
   }
   section.reviews .holder .reviews_sliders_box .reviews_slider_holder .reviews_slider_nav_box > a {
-    display: block;
+    display: block!important;
   }
   section.reviews .holder .reviews_sliders_box .reviews_slider_holder .reviews_slider_nav {
     width: 70%;
